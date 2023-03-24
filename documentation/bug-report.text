@@ -1,0 +1,36 @@
+Bug Report for Test Case 86
+
+03/24/2023
+
+Description:
+
+Player One score doesn't increase with a winner
+
+Steps to Reproduce:
+
+1. Open app on localhost:4000
+
+2. Make your selections from the test Plan
+
+3. Play the game normally and attempt to win
+
+4. If player one wins, observer to see if score goes Updated
+
+Expected Result:
+
+Player One's score with increase from Zero to One
+
+Actual Result:
+
+Upon player one's win, score stays at Zero
+
+Environment:
+
+-Version 111.0.5563.64 (Official Build) (arm64)
+-macOS Ventura 13.2
+
+Attachments:
+
+<pics>
+
+<video>

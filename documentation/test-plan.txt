@@ -1,0 +1,33 @@
+Test Plan 13 for Duel Duo App
+
+Overview: 
+
+Test the Dueling Capablities of App
+
+Link:
+
+https://localhost:4000
+
+Test Criteria:
+
+-Click on the "Draw" button
+
+-Select Two of the Bots by clicking on the "Add to Duo" button
+
+-Then click the "Duel!" button
+
+-Scroll to the top to see who won!
+
+Entry Criteria:
+
+-Has a working computer, non-mobile app
+
+-Has access to the internet
+
+Exit Criteria:
+
+-All Tests pass
+
+Other details:
+
+-Updated browser

@@ -1,0 +1,22 @@
+Test Case 86 (for TP-13)
+
+Description:
+
+Normal Duel Play, Player One vs Computer
+
+Steps:
+
+1. Open app on localhost:4000
+
+2. Make your selections from the test Plan
+
+3. Play the game normally and attempt to win/lose.
+
+4. Check if the game correctly calculates the winner/loser.
+
+5. Verify that the player's score increases when they win and decresase when they lose.
+
+Post Conditions:
+
+A winner is determined and logged. Then play again.
+
